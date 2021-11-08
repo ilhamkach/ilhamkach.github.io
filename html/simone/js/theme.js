@@ -302,10 +302,10 @@ $('#back-to-top').on("click", function() {
 /*------------------------
    Contact Form
 -------------------------- */
-var form = $('#contact-form'); // contact form
+/*var form = $('#contact-form'); // contact form
 var submit = $('#submit-btn'); // submit button
-
-// form submit event
+*/
+/*// form submit event
 form.on('submit', function (e) {
 	e.preventDefault(); // prevent default form submit
 
@@ -382,5 +382,5 @@ form.on('submit', function (e) {
 		});
 	}
 });
-
+*/
 })(jQuery)
