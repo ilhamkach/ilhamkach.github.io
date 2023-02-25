@@ -2579,7 +2579,7 @@ hr {
 
 @media only screen and (max-width: 600px) {
   .hero-wrap .hero-bg {
-    background-image:url('../images/ilham_bg_mobile.jpg');
+    background-image:url('../images/bg1.jpg');
     background-position: top right;
   }
 }
