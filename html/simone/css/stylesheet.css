@@ -2594,7 +2594,7 @@ hr {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   transition: background-image 300ms ease-in 200ms;
-  background-image:url('../images/ilham_bg.jpg');
+  background-image:url('../images/bg1.jpg');
 }
 }
 
